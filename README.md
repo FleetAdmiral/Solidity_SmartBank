@@ -1,6 +1,8 @@
 # Solidity_SmartBank
 Made a simple smart bank with all basic features, in solidity.   
 Features implemented are:  
+  
+  
 Account Registration/Deactivation  
 Joint Account  
 Registration/Deactivation:Activation/Deactivation requires confirmation from both parties  
